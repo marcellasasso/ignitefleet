@@ -1,0 +1,7 @@
+{
+  "extends": "@rocketseat/eslint-config/react",
+  "ignorePatterns": ["**/*.js"],
+  "rules": {
+    "no-use-before-define": "off"
+  }
+}
